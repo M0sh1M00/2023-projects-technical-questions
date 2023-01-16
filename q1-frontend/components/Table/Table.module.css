@@ -18,3 +18,18 @@
     flex: 1 1 0px;
     flex-direction: column;
 }
+
+.updateItem {
+    float: left;
+    display: flex;
+    flex: 1 1 0px;
+    flex-direction: column;
+}
+
+.dateStyle {
+    color: blue;
+    font-size: 11px;
+    text-align: right;
+    padding: 3px;
+
+}
